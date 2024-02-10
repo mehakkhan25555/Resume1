@@ -1,0 +1,172 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:'Poppins',sans-serif;
+    justify-content: center;
+    box-sizing: border-box;
+    text-decoration: none;
+    
+   
+}
+.navbar{
+    background: linear-gradient(180deg, #FBB8FF 0%, #ABF7F8 100%);
+
+}
+.navdiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+
+}
+.btn{
+    width: 120px;
+height: 40px;
+display: flex;
+background-color: transparent;
+border-radius: 10px;
+border: 2.54px solid #A053CF;
+text-align: center;
+margin: 4px 30px; 
+padding-top: 5px;
+display: inline-flex;
+align-items: center;
+margin-right:-2px;
+
+}
+h3{
+    color: #F53379;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-left: 30px;
+text-transform: capitalize;
+
+}
+.home{
+    margin-right:540px;
+    /* padding-left: -10%; */
+    width:33px;
+    margin-left: 20px;
+    height: 30px;
+    margin-bottom: 1.1rem
+}
+li{
+    list-style: none;
+    display: inline-block;
+}
+.arrows{
+    width: 90px;
+height: 30px;
+margin-right: 400px;
+background-color: transparent;
+border: none;
+margin-top: -8px;
+margin-bottom: 50px;
+}
+
+li a img{
+    width:37px;
+    height:50px;
+   
+}
+.En{
+    width:90px;
+    height:35px;
+    display: flex;
+    margin-left: 99px;
+    background: transparent;
+   position: absolute;
+   /* margin-left:130px; */
+  margin-bottom: 2rem;
+  color: #000;
+ padding:4px;
+ padding:5px 3px ;
+ border-radius: 10px;
+ border: 2.5px solid #000;
+
+ margin-top: -72px;
+   
+}
+h4{
+    color: #000;
+
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: capitalize;
+}
+.Import{
+    width:90px;
+    height:35px;
+    display: flex;
+    margin-left: 199px;
+   margin-top:-70px ;
+   border-radius: 10px;
+   border: 2px solid #000;
+   background-color: transparent;
+   padding:5px 3px ;
+}
+p{
+    color: #000;
+
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-transform: capitalize;
+padding-left: 6px;
+}
+.download{
+    margin-top:-34px ;
+    width:120px;
+    height:35px;
+    display:flex;
+   margin-left: 300px;
+   border-radius: 10px;
+border: 2.5px solid #A053CF;
+padding:4px 7px;
+padding-right: 2px;
+background: #A053CF;
+}
+h5{
+    color: #FFF;
+padding-left: 2px;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-transform: capitalize;
+}
+
+
+
+
+#cv-form{
+    /* display: none; */
+    background: linear-gradient(to bottom left, #33ccff 0%, #ff99cc 100%);
+ 
+    
+}
+
+#cv-template{
+    display: none;
+}
+.myimg{
+    width:200px;
+     border-radius: 50%;
+}
+.background{
+    background: linear-gradient(to bottom, #33ccff 0%, #ccccff 100%);
+}
+#bg{
+    background: linear-gradient(to bottom, #33ccff 0%, #ccccff 100%);
+/* #imgTemplate{
+    border-radius: 50%;
+} */
